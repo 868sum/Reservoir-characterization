@@ -1,8 +1,4 @@
-# MsAutoformer: Multi-Scale Autoformer for Reservoir Fluid Identification
-
-# Overview
-This project implements **MsAutoformer**, an improved Autoformer architecture for reservoir fluid identification in geoscience applications.
-
+# Code for reservoir characterization
 
 ## Project Structure
 
@@ -37,4 +33,5 @@ python train.py
 - numpy
 - matplotlib
 - seaborn
+
 
